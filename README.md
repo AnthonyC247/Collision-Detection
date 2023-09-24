@@ -16,3 +16,8 @@ This game demonstrates basic collision detection mechanics in a 2D environment. 
 Before you begin, ensure you have met the following requirements:
 
 - Python: This game requires Python to be installed.
+
+- Pygame: Pygame is a required library for running this game. You can install it using pip:
+
+  ```shell
+  pip install pygame
